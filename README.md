@@ -92,9 +92,9 @@ Picking apart the acronym, MVP is composed of the following components:
 
 - **Maintainability**: By separating concerns, MVP improves code readability and maintainability, as each component has a clear responsibility. 
 
-![image](https://github.com/Vishallab/CineMate/assets/74778363/20b1bebf-73f5-439c-a7b8-0473d48d9eb5)<br>
+![image](https://github.com/Vishallab/CineMate/blob/main/mvp.png)<br>
 ###MVP architecture diagram for your CineMate Android application
-![image](https://github.com/Vishallab/CineMate/assets/74778363/bce056f2-60b8-466b-b527-64995e258526)
+![image](https://github.com/Vishallab/CineMate/blob/main/arch.png)
 
 
 ---
@@ -192,15 +192,6 @@ git clone https://github.com/Vishallab/CineMate.git
 4. Sync the project with Gradle files.
 5. Open an emulator or connect a real device.
 6. Run the app using Android Studio's run/debug configurations.
-
- ## Video Demo
-
-[https://github.com/Vishallab/CineMate/assets/74778363/7a8a8d1f-a5f3-4780-8dd2-3dd31464eb6d
-](https://github.com/Vishallab/CineMate/blob/main/demo.mp4)
-![image](https://github.com/Vishallab/CineMate/assets/74778363/5fdb1cf2-452e-432c-9691-2783e6fa004b)
-
-![image](https://github.com/Vishallab/CineMate/assets/74778363/0ea7b87c-30de-40e9-995e-20121d7b03e1)
-
 
 
 ## Issues
