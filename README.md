@@ -34,10 +34,12 @@ CineMate provides a user-friendly interface to browse movies, view detailed info
      <td>Main home scroll</td>
   </tr>
   <tr>
-    <td><img src="https://github.com/Vishallab/CineMate/blob/master/app/src/main/res/raw/splash.jpeg" width=240 height=410/></td>
-    <td><img src="https://github.com/Vishallab/CineMate/blob/master/app/src/main/res/raw/homewithload.jpeg" width=240 height=410/></td>
-    <td><img src="https://github.com/Vishallab/CineMate/blob/master/app/src/main/res/raw/mainhome.jpeg" width=240 height=410/></td>
-    <td><img src="https://github.com/Vishallab/CineMate/blob/master/app/src/main/res/raw/homemain.jpeg" width=240 height=410/></td>
+    app/src/main/res/raw/homemain.jpeg
+    
+    <td><img src="https://github.com/Vishallab/CineMate/blob/main/app/src/main/res/raw/splash.jpeg" width=240 height=410/></td>
+    <td><img src="https://github.com/Vishallab/CineMate/blob/main/app/src/main/res/raw/homewithload.jpeg" width=240 height=410/></td>
+    <td><img src="https://github.com/Vishallab/CineMate/blob/main/app/src/main/res/raw/mainhome.jpeg" width=240 height=410/></td>
+    <td><img src="https://github.com/Vishallab/CineMate/blob/main/app/src/main/res/raw/homemain.jpeg" width=240 height=410/></td>
     
   </tr>
   
@@ -48,10 +50,10 @@ CineMate provides a user-friendly interface to browse movies, view detailed info
      <td>Up Coming</td>
   </tr>
   <tr>
-    <td><img src="https://github.com/Vishallab/CineMate/blob/master/app/src/main/res/raw/moviedetail1.jpeg" width=240 height=410/></td>
-    <td><img src="https://github.com/Vishallab/CineMate/blob/master/app/src/main/res/raw/moviedetail2.jpeg" width=240 height=410/></td>
-    <td><img src="https://github.com/Vishallab/CineMate/blob/master/app/src/main/res/raw/nowplaying.jpeg" width=240 height=410/></td>
-    <td><img src="https://github.com/Vishallab/CineMate/blob/master/app/src/main/res/raw/upcoming.jpeg" width=240 height=410/></td>
+    <td><img src="https://github.com/Vishallab/CineMate/blob/main/app/src/main/res/raw/moviedetail1.jpeg" width=240 height=410/></td>
+    <td><img src="https://github.com/Vishallab/CineMate/blob/main/app/src/main/res/raw/moviedetail2.jpeg" width=240 height=410/></td>
+    <td><img src="https://github.com/Vishallab/CineMate/blob/main/app/src/main/res/raw/nowplaying.jpeg" width=240 height=410/></td>
+    <td><img src="https://github.com/Vishallab/CineMate/blob/main/app/src/main/res/raw/upcoming.jpeg" width=240 height=410/></td>
   </tr>
  </table>
 
