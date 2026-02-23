@@ -33,9 +33,7 @@ CineMate provides a user-friendly interface to browse movies, view detailed info
      <td>Main home</td>
      <td>Main home scroll</td>
   </tr>
-  <tr>
-    app/src/main/res/raw/homemain.jpeg
-    
+  <tr>    
     <td><img src="https://github.com/Vishallab/CineMate/blob/main/app/src/main/res/raw/splash.jpeg" width=240 height=410/></td>
     <td><img src="https://github.com/Vishallab/CineMate/blob/main/app/src/main/res/raw/homewithload.jpeg" width=240 height=410/></td>
     <td><img src="https://github.com/Vishallab/CineMate/blob/main/app/src/main/res/raw/mainhome.jpeg" width=240 height=410/></td>
@@ -197,8 +195,8 @@ git clone https://github.com/Vishallab/CineMate.git
 
  ## Video Demo
 
-https://github.com/Vishallab/CineMate/assets/74778363/7a8a8d1f-a5f3-4780-8dd2-3dd31464eb6d
-
+[https://github.com/Vishallab/CineMate/assets/74778363/7a8a8d1f-a5f3-4780-8dd2-3dd31464eb6d
+](https://github.com/Vishallab/CineMate/blob/main/demo.mp4)
 ![image](https://github.com/Vishallab/CineMate/assets/74778363/5fdb1cf2-452e-432c-9691-2783e6fa004b)
 
 ![image](https://github.com/Vishallab/CineMate/assets/74778363/0ea7b87c-30de-40e9-995e-20121d7b03e1)
